@@ -1,0 +1,16 @@
+body{
+    background-color: powderblue;
+}
+
+hr{
+    background-color: powderblue;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(186, 186, 186);
+    border-width: 5px;
+    width: 4.5%;
+}
+
+h1,h3{
+    color: blue;
+}
